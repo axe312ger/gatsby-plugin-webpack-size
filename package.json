@@ -1,0 +1,48 @@
+{
+  "name": "gatsby-plugin-webpack-size",
+  "version": "0.0.1",
+  "description": "Logs your production bundle sizes in a CI friendly way",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint gatsby-node.js",
+    "format": "prettier --write gatsby-node.js"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "webpack",
+    "bundle"
+  ],
+  "author": "Benedikt Rötsch <info@benedikt-roetsch.de>",
+  "bugs": {
+    "url": "https://github.com/axe312ger/gatsgy-plugin-webpack-size/issues"
+  },
+  "homepage": "https://github.com/axe312ger/gatsgy-plugin-webpack-size/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axe312ger/gatsgy-plugin-webpack-size.git"
+  },
+  "license": "MIT",
+  "files": [
+    "readme.md",
+    "gatsby-node.js",
+    "index.js"
+  ],
+  "dependencies": {
+    "size-plugin": "^1.0.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "prettier": "^1.14.2"
+  }
+}
