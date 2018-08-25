@@ -15,12 +15,12 @@
   ],
   "author": "Benedikt Rötsch <info@benedikt-roetsch.de>",
   "bugs": {
-    "url": "https://github.com/axe312ger/gatsgy-plugin-webpack-size/issues"
+    "url": "https://github.com/axe312ger/gatsby-plugin-webpack-size/issues"
   },
-  "homepage": "https://github.com/axe312ger/gatsgy-plugin-webpack-size/",
+  "homepage": "https://github.com/axe312ger/gatsby-plugin-webpack-size/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/axe312ger/gatsgy-plugin-webpack-size.git"
+    "url": "https://github.com/axe312ger/gatsby-plugin-webpack-size.git"
   },
   "license": "MIT",
   "files": [

@@ -1,12 +1,12 @@
 # Gatsby Plugin Webpack Size
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/gatsgy-plugin-webpack-size">
-    <img src="https://img.shields.io/npm/v/gatsgy-plugin-webpack-size.svg" alt="NPM">
+  <a href="https://www.npmjs.com/package/gatsby-plugin-webpack-size">
+    <img src="https://img.shields.io/npm/v/gatsby-plugin-webpack-size.svg" alt="NPM">
   </a>
   &nbsp;
-  <a href="http://npm-stat.com/charts.html?package=gatsgy-plugin-webpack-size">
-    <img src="https://img.shields.io/npm/dm/gatsgy-plugin-webpack-size.svg" alt="NPM downloads">
+  <a href="http://npm-stat.com/charts.html?package=gatsby-plugin-webpack-size">
+    <img src="https://img.shields.io/npm/dm/gatsby-plugin-webpack-size.svg" alt="NPM downloads">
   </a>
 </p>
 
@@ -22,7 +22,7 @@ npm i gatsby-plugin-webpack-size
 
 ## 🛫 Setup
 
-Add `'gatsgy-plugin-webpack-size'` to the plugins in your `gatsby-config.js` file.
+Add `'gatsby-plugin-webpack-size'` to the plugins in your `gatsby-config.js` file.
 
 ```js
 module.exports = {
