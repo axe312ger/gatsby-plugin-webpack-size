@@ -34,7 +34,7 @@ module.exports = {
 
 ## ⚙️ Configuration
 
-THe only custom option implemented is `development`. All other options are passed to the [size-plugin](https://github.com/GoogleChromeLabs/size-plugin).
+The only custom option implemented is `development`. All other options are passed to the [size-plugin](https://github.com/GoogleChromeLabs/size-plugin).
 
 ```js
 module.exports = {
