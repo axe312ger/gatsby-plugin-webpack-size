@@ -39,13 +39,13 @@ The only custom option implemented is `development`. All other options are passe
 ```js
 module.exports = {
   plugins: [
-    [
-      `gatsby-plugin-webpack-size`,
-      {
+    {
+      resolve: `gatsby-plugin-webpack-size`,
+      options: {
         // Set to true to show bundle sizes in development mode as well
         development: true
       }
-    ]
+    }
   ]
 }
 
