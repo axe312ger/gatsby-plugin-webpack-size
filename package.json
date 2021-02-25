@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-webpack-size",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Logs your production bundle sizes in a CI friendly way",
   "main": "index.js",
   "scripts": {
@@ -29,20 +29,20 @@
     "index.js"
   ],
   "dependencies": {
-    "size-plugin": "^1.2.0"
+    "size-plugin": "^3.0.0"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-config-prettier": "^5.0.0",
-    "eslint-config-standard": "^12.0.0",
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.17.3",
-    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-promise": "^4.1.1",
-    "eslint-plugin-standard": "^4.0.0",
-    "prettier": "^1.18.2"
+    "eslint-plugin-standard": "^5.0.0",
+    "prettier": "^2.2.1"
   }
 }
