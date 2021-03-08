@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-webpack-size",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Logs your production bundle sizes in a CI friendly way",
   "main": "index.js",
   "scripts": {
