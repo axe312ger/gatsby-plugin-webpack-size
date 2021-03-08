@@ -6,7 +6,7 @@ exports.onCreateWebpackConfig = ({ stage, actions }, options) => {
     options.development
   ) {
     actions.setWebpackConfig({
-      plugins: [new SizePlugin(options)]
+      plugins: [new SizePlugin(options)],
     })
   }
 }
