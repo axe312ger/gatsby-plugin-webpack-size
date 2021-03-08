@@ -32,7 +32,7 @@
     "size-plugin": "^1.2.0"
   },
   "peerDependencies": {
-    "gatsby": "^3.0.0"
+    "gatsby": "^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
