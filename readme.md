@@ -1,3 +1,9 @@
+# Important note on Gatsby v3:
+
+This will **not** work with Gatsby v3 till the [size-plugin](https://github.com/GoogleChromeLabs/size-plugin) supports Webpack v5.
+
+---
+
 # Gatsby Plugin Webpack Size
 
 <p align="center">
